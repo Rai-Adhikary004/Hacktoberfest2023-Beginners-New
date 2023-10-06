@@ -10,7 +10,7 @@ Academy of Technology
 
 ###Interests
 
-Data Stracture
+Web Devolopment
 
 Profile link
 
